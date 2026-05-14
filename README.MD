@@ -33,7 +33,7 @@ The project uses:
 
 
 \### Installation
-
+git clone https://github.com/cagroh/_ESP32-With-AI
 WIP
 
 
